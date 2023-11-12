@@ -1,22 +1,32 @@
-{
-  "albums": [
-    {
-      "title": "Abbey Road",
-      "artist": "The Beatles",
-      "songs": ["Come Together", "Something", "Oh! Darling", "Here Comes the Sun", "Because"],
-      "year": 1969
-    },
-    {
-      "title": "Thriller",
-      "artist": "Michael Jackson",
-      "songs": ["Wanna Be Startin' Somethin'", "Thriller", "Beat It", "Billie Jean", "Human Nature"],
-      "year": 1982
-    },
-    {
-      "title": "Back in Black",
-      "artist": "AC/DC",
-      "songs": ["Hells Bells", "Shoot to Thrill", "Back in Black", "You Shook Me All Night Long", "Rock and Roll Ain't Noise Pollution"],
-      "year": 1980
-    }
-  ]
-}
+[
+  {
+    "Album": "The Dark Side of the Moon",
+    "Songs": [
+      {"Song": "Speak to Me", "Release Year": 1973, "Artist": "Pink Floyd"},
+      {"Song": "Breathe", "Release Year": 1973, "Artist": "Pink Floyd"},
+      {"Song": "On the Run", "Release Year": 1973, "Artist": "Pink Floyd"},
+      {"Song": "Time", "Release Year": 1973, "Artist": "Pink Floyd"},
+      {"Song": "The Great Gig in the Sky", "Release Year": 1973, "Artist": "Pink Floyd"}
+    ]
+  },
+  {
+    "Album": "Thriller",
+    "Songs": [
+      {"Song": "Wanna Be Startin' Somethin'", "Release Year": 1982, "Artist": "Michael Jackson"},
+      {"Song": "Thriller", "Release Year": 1982, "Artist": "Michael Jackson"},
+      {"Song": "Beat It", "Release Year": 1982, "Artist": "Michael Jackson"},
+      {"Song": "Billie Jean", "Release Year": 1982, "Artist": "Michael Jackson"},
+      {"Song": "Human Nature", "Release Year": 1982, "Artist": "Michael Jackson"}
+    ]
+  },
+  {
+    "Album": "Abbey Road",
+    "Songs": [
+      {"Song": "Come Together", "Release Year": 1969, "Artist": "The Beatles"},
+      {"Song": "Something", "Release Year": 1969, "Artist": "The Beatles"},
+      {"Song": "Maxwell's Silver Hammer", "Release Year": 1969, "Artist": "The Beatles"},
+      {"Song": "Oh! Darling", "Release Year": 1969, "Artist": "The Beatles"},
+      {"Song": "I Want You (She's So Heavy)", "Release Year": 1969, "Artist": "The Beatles"}
+    ]
+  }
+]
