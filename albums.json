@@ -1,20 +1,22 @@
-[
-  {
-    "Album Title": "Abbey Road",
-    "Artist": "The Beatles",
-    "Songs": "Come Together, Something, Oh! Darling, Here Comes the Sun, Because",
-    "Year": 1969
-  },
-  {
-    "Album Title": "Thriller",
-    "Artist": "Michael Jackson",
-    "Songs": "Wanna Be Startin' Somethin', Thriller, Beat It, Billie Jean, Human Nature",
-    "Year": 1982
-  },
-  {
-    "Album Title": "Back in Black",
-    "Artist": "AC/DC",
-    "Songs": "Hells Bells, Shoot to Thrill, Back in Black, You Shook Me All Night Long, Rock and Roll Ain't Noise Pollution",
-    "Year": 1980
-  }
-]
+{
+  "albums": [
+    {
+      "title": "Abbey Road",
+      "artist": "The Beatles",
+      "songs": ["Come Together", "Something", "Oh! Darling", "Here Comes the Sun", "Because"],
+      "year": 1969
+    },
+    {
+      "title": "Thriller",
+      "artist": "Michael Jackson",
+      "songs": ["Wanna Be Startin' Somethin'", "Thriller", "Beat It", "Billie Jean", "Human Nature"],
+      "year": 1982
+    },
+    {
+      "title": "Back in Black",
+      "artist": "AC/DC",
+      "songs": ["Hells Bells", "Shoot to Thrill", "Back in Black", "You Shook Me All Night Long", "Rock and Roll Ain't Noise Pollution"],
+      "year": 1980
+    }
+  ]
+}
