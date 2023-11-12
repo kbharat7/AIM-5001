@@ -1,32 +1,6 @@
-[
-  {
-    "Album": "The Dark Side of the Moon",
-    "Artist": "Pink Floyd",
-    "Year": 1973,
-    "Track 1": "Speak to Me",
-    "Track 2": "Breathe",
-    "Track 3": "On the Run",
-    "Track 4": "Time",
-    "Track 5": "The Great Gig in the Sky"
-  },
-  {
-    "Album": "Thriller",
-    "Artist": "Michael Jackson",
-    "Year": 1982,
-    "Track 1": "Wanna Be Startin' Somethin'",
-    "Track 2": "Thriller",
-    "Track 3": "Beat It",
-    "Track 4": "Billie Jean",
-    "Track 5": "Human Nature"
-  },
-  {
-    "Album": "Abbey Road",
-    "Artist": "The Beatles",
-    "Year": 1969,
-    "Track 1": "Come Together",
-    "Track 2": "Something",
-    "Track 3": "Maxwell's Silver Hammer",
-    "Track 4": "Oh! Darling",
-    "Track 5": "I Want You (She's So Heavy)"
-  }
-]
+{
+  "Album": ["The Dark Side of the Moon", "The Dark Side of the Moon", "The Dark Side of the Moon", "The Dark Side of the Moon", "The Dark Side of the Moon", "Thriller", "Thriller", "Thriller", "Thriller", "Thriller", "Abbey Road", "Abbey Road", "Abbey Road", "Abbey Road", "Abbey Road"],
+  "Song": ["Speak to Me", "Breathe", "On the Run", "Time", "The Great Gig in the Sky", "Wanna Be Startin' Somethin'", "Thriller", "Beat It", "Billie Jean", "Human Nature", "Come Together", "Something", "Maxwell's Silver Hammer", "Oh! Darling", "I Want You (She's So Heavy)"],
+  "Release Year": [1973, 1973, 1973, 1973, 1973, 1982, 1982, 1982, 1982, 1982, 1969, 1969, 1969, 1969, 1969],
+  "Artist": ["Pink Floyd", "Pink Floyd", "Pink Floyd", "Pink Floyd", "Pink Floyd", "Michael Jackson", "Michael Jackson", "Michael Jackson", "Michael Jackson", "Michael Jackson", "The Beatles", "The Beatles", "The Beatles", "The Beatles", "The Beatles"]
+}
